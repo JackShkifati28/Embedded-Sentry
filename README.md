@@ -1,4 +1,4 @@
-# Gesture Recognition System using Dynamic Time Warping
+# Gesture Recognition System
 
 ## Contributors
 Jack Shkifati, Ishan U Taldekar, James Huang, and Inder Preet Walia
