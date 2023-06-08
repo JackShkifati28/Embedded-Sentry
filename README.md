@@ -1,7 +1,5 @@
 # Gesture Recognition System
 
-## Contributors
-Jack Shkifati, Ishan U Taldekar, James Huang, and Inder Preet Walia
 
 ## Description
 Our project is a Gesture Recognition System that leverages the Dynamic Time Warping (DTW) algorithm. The program utilizes multiple header files to manage the functionality of the system:
