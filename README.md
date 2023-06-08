@@ -21,4 +21,4 @@ The `main()` function sets up the system, including the gyroscope and button int
 Other functions like `startRecording()`, `stopRecording()`, `startReading()`, and `stopReading()` are used to update the system flags and LEDs based on the system's current state. These updates are performed within mutex locks to prevent other threads from accessing the flags at the same time, thereby preventing data inconsistencies and race conditions.
 
 ## Conclusion
-This project represents a well-structured approach to a multi-threaded, event-driven system for gesture recognition using a gyroscope and the Dynamic Time Warping algorithm. We believe this system has numerous potential applications in real-world scenarios where gesture-based input is advantageous. 
+This project represents a well-structured approach to a multi-threaded, event-driven system for gesture recognition using a gyroscope and the Dynamic Time Warping algorithm. This system has numerous potential applications in real-world scenarios where gesture-based input is advantageous. 
