@@ -1,6 +1,8 @@
 # Gesture Recognition System
 
-Thus project is a Gesture Recognition System that leverages the Dynamic Time Warping (DTW) algorithm. The program utilizes multiple header files to manage the functionality of the system:
+This project implements a Gesture Recognition System utilizing the STM32's built-in gyroscope, the SPI communication protocol, and the mbed framework, with the Dynamic Time Warping (DTW) algorithm for processing.
+
+The program utilizes multiple header files to manage the functionality of the system:
 
 - `config.h`: Contains system configurations and macro definitions.
 - `sensor.h`: Manages the setup and data handling of the gyroscope sensor.
