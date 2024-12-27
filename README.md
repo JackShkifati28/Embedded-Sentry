@@ -1,6 +1,6 @@
 # Gesture Recognition System
 
-Our project is a Gesture Recognition System that leverages the Dynamic Time Warping (DTW) algorithm. The program utilizes multiple header files to manage the functionality of the system:
+Thus project is a Gesture Recognition System that leverages the Dynamic Time Warping (DTW) algorithm. The program utilizes multiple header files to manage the functionality of the system:
 
 - `config.h`: Contains system configurations and macro definitions.
 - `sensor.h`: Manages the setup and data handling of the gyroscope sensor.
